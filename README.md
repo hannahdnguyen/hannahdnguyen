@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I’m a Business Administration major specializing in Finance at San José State University. I’m passionate about understanding financial systems, working with numbers, and finding better ways to analyze data. I’m currently learning how to use coding and data tools to improve my skills in finance, research, and decision-making.<!--
-**hannahdnguyen/hannahdnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Business Administration major specializing in Finance at San José State University. I’m passionate about understanding financial systems, working with numbers, and finding better ways to analyze data. I’m currently learning how to use coding and data tools to improve my skills in finance, research, and decision-making.
 
 ## 🔍 What I’m Focusing On
 - Building a strong foundation in finance and financial analysis  
